@@ -1,0 +1,5 @@
+name: MaycryVillagerSystem
+version: '1.0'
+main: me.avenhon.maycryVillagerSystem.MaycryVillagerSystem
+api-version: '1.21'
+authors: [ avenhon ]
